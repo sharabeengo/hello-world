@@ -1,2 +1,2 @@
 # hello-world
-Project #expo #mobileapp #javascript #js #reactnative #reactjs
+Project about #expo #mobileapp #javascript #js #reactnative #reactjs

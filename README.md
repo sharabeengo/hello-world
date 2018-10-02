@@ -1,5 +1,6 @@
 # hello-world
-Project #expo #mobileapp #javascript #js #reactnative #reactjs
+
+Project about #expo #mobileapp #javascript #js #reactnative #reactjs
 
 I'm interested about node.js and expo for creating mobile apps, using javascript, react.js and react native. 
 
